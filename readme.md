@@ -43,7 +43,7 @@ Then download the arduino.py file but dont start yet.
 
 My Discord `Cherezza#8297`
 
-My Instangram @thealprnn[https://www.instagram.com/thealpernn/]
+My Instangram [@thealprnn](https://www.instagram.com/thealpernn/)
 
 
 
