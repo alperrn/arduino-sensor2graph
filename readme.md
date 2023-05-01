@@ -10,6 +10,7 @@ First you need to download python and arduino ide.
 There are links:
 
 [Arduino IDE](https://www.arduino.cc/en/software)
+
 [Python](https://www.python.org/downloads/)
 
 Then you need download libraries for python
@@ -26,13 +27,13 @@ Then you need download libraries for python
 Then change dev/tty/usb0 to your port 
 (if you are using windows it should be COM3 or COM4)
 
-Then download the main.py file but dont start yet.
+Then download the arduino.py file but dont start yet.
 
 # Setupping Arduino
 
--First of all you need an connected arduino card. you need to make same things whit fritzing.png (if you can see whats it download fritzing and check yourself).
+-First of all you need a connected arduino card. you need to make same things whit fritzing.png.
 
--Copy the main.ino code and paste to arduino ide.
+-Copy the sketch.ino code and paste to arduino ide.
 
 -Select port and upload to arduino.
 
